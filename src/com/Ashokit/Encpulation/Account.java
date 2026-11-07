@@ -1,6 +1,6 @@
 package com.Ashokit.Encpulation;
 
-public class Account {
+public class Account1 {
 	private long accNum;
 	private String name;
 
